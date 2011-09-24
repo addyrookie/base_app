@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  amount: 1.5
+  payment_for: MyString
+  service: MyString
+  recurring: false
+  den: 
+  occupant: 
+
+two:
+  amount: 1.5
+  payment_for: MyString
+  service: MyString
+  recurring: false
+  den: 
+  occupant: 
